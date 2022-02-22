@@ -14,4 +14,4 @@ Yandex.Cloud API uses Protocol Buffers to define API interfaces and data structu
 
 Repository structure reflects Yandex.Cloud service hierarchy. Folders represent different services of the platform and contain protobuf files. Each service folder contains resource data structure and interface definitions for API calls. 
 
-test1
+test2
