@@ -590,7 +590,7 @@ message SetScalingPolicyRequest {
 
   // Upper limit of requests count in each zone.
   // 0 means no limit.
-  int64 zone_requests_limit = 6 [(value) = "0-1000"];
+  // int64 zone_requests_limit = 6 [(value) = "0-1000"];
 }
 
 message SetScalingPolicyMetadata {
